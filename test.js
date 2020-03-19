@@ -61,7 +61,7 @@ describe("Easy", function() {
         const result = "answer on the ultimate question of life the universe and everything is 42";
         expect(decode(expr)).to.equal(result);
     });
-    
+
 });
 
 describe("Medium", function() {
